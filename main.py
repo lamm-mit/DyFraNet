@@ -13,10 +13,9 @@ from matplotlib import pyplot as plt
 parser = argparse.ArgumentParser(description='train')
 parser.add_argument('--batch_size', type=int, default=4, metavar='N', help='Input batch size for training')
 parser.add_argument('--numframe', type=int, default=0, metavar='N', help='Input number of frame of training')
-parser.add_argument('--each', type=int, default=2, metavar='N', help='How many each to take image sequence')
 args = parser.parse_args()
 
-dname = 'immatrix_2D_40x30_f9_e2'
+dname = 'immatrix_2D'
 immatrix = np.load(dname+'.npy')
 print('load immatrix with size:', immatrix.shape, flush=True)
 n = immatrix.shape[-2] 
