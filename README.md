@@ -6,7 +6,7 @@ python3 main.py --batch_size 32
 python3 main.py --batch_size 32
                 --numframe N
 
-### To download our pre-trained model, please download and save it as './model/...' separately from the link below:
+### To download our pre-trained model, please download and unzip it to the currnet foler from the link below:
 
 https://www.dropbox.com/s/9phk9osmzzpbh66/model.zip?dl=0
 
