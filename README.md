@@ -1,6 +1,6 @@
 # DyFraNet
 
-![image](https://user-images.githubusercontent.com/101393859/202015930-e83c4cd2-c3e6-4c80-a49b-7df52459b02c.png)
+![image](https://user-images.githubusercontent.com/101393859/202016081-178b33cc-6034-41b0-b656-83b56ae0ce83.png)
 
 Reference: Yu-Chuan Hsu, Markus J. Buehler, DyFraNet: Forecasting and Backcasting Dynamic Fracture Mechanics in Space and Time Using a 2D-to-3D Deep Neural Network, in submission 
 
