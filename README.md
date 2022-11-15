@@ -13,4 +13,4 @@ python3 main.py --batch_size 32
 
 https://www.dropbox.com/s/9phk9osmzzpbh66/model.zip?dl=0
 
-#### and then run $prediction.ipynb$ to play around with your own input.
+#### and then run $prediction.ipynb$ to explore the model with your own input.
