@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/101393859/202016081-178b33cc-6034-41b0-b656-83b56ae0ce83.png)
 
-Reference: Yu-Chuan Hsu, Markus J. Buehler, DyFraNet: Forecasting and Backcasting Dynamic Fracture Mechanics in Space and Time Using a 2D-to-3D Deep Neural Network, in submission 
+Reference: Yu-Chuan Hsu, Markus J. Buehler, DyFraNet: Forecasting and Backcasting Dynamic Fracture Mechanics in Space and Time Using a 2D-to-3D Deep Neural Network, published in APL Machine Learning
 
 #### If you are using our dataset $immatrix\\_2D.npy$, you can simply run the python code to train the model by:
 python3 main.py --batch_size 32 
